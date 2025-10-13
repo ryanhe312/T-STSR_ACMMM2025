@@ -4,7 +4,7 @@ Official Implementation of "Efficient Trajectory Space-Time Super-Resolution for
 
 ## Environment
 
-We use Pytorch 1.13.1 and CUDA 11.7 for this project, please run the following commands to set up the environment.
+We use Python 3.10, Pytorch 1.13.1 and CUDA 11.7 for this project, please run the following commands to set up the environment.
 
 ```bash
 pip install -r requirements.txt
